@@ -7,6 +7,7 @@
     Andrea byrjaði á gagnagrunni <br>
     Arnór byrjaði að setja upp forrit og tenga GitHub
   </dd>
+  <dt>-30/04-</dt>
   <dd>
     Andrea setti inn values í gagnagrunninn<br>
   </dd>
