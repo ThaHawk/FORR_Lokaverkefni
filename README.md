@@ -1,4 +1,4 @@
-#C++ forritun: Lokaverkefni
+<h1>C++ forritun: Lokaverkefni</h1>
 ##Dagbók
 
 <dl>
