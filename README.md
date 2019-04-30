@@ -1,5 +1,5 @@
 <h1>C++ forritun: Lokaverkefni</h1>
-##Dagbók
+<h2>Dagbók</h2>
 
 <dl>
   <dt>-26/04-</dt>
