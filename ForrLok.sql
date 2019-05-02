@@ -39,41 +39,41 @@ values
 
 insert into Afangar(nafn, lysing, stofa)
 values
-('FORR3GG05DU', 'C++ og gagnagrindur', 'H209'), #Geir
-('KEST3CR05EU', 'CCNA - Routing and Switching',  'H304'), #Geir
-('KEST2UN05CU', 'Tölvutækni - undirstöðuatriði netkerfa', 'H304'), #Abdel
-('KEST2WG05DU', 'Windows Server - kerfisstjórnun', 'H304'), #Abdel
-('GAGN2VG05CU', 'Venslaðir gagnagrunnar', 'H209'), #Siggi, Abdel
-('FORR1FG05AU', 'Forritun I'),
+('FORR3GG05DU', 'C++ og gagnagrindur'), #Geir
+('KEST3CR05EU', 'CCNA - Routing and Switching'), #Geir
+('KEST2UN05CU', 'Tölvutækni - undirstöðuatriði netkerfa'), #Abdel
+('KEST2WG05DU', 'Windows Server - kerfisstjórnun'), #Abdel
+('GAGN2VG05CU', 'Venslaðir gagnagrunnar'), #Siggi, Abdel
+('FORR1FG05AU', 'Forritun I'), #Geir
 ('FORK2FE02AU', 'Forritunarkeppni I'),
 ('FORK2FT02BU', 'Forritunarkeppni II'),
 ('FORK2FÞ02CU', 'Forritunarkeppni III'),
 ('FORR2FA05BU', 'Forritun II'),
-('VEFÞ1VG05AU', 'Vefhönnun I'), #Karl
-('VEFÞ2VH05BU', 'Vefhönnun II'), #Karl
+('VEFÞ1VG05AU', 'Vefhönnun I'),
+('VEFÞ2VH05BU', 'Vefhönnun II'),
 ('FORR2HF05CU', 'Hlutbundin forritun'),
-('GAGN1NG05AU', 'Notkun gagnasafna'), 
+('GAGN1NG05AU', 'Notkun gagnasafna'), #Siggi
 ('KEST1TR05AU', 'Tölvutækni - talnakerfi og rökrásir'),
 ('KEST2VJ05BU', 'Tölvutækni - vélbúnaður og jaðartæki (IoT)'),
 ('FORR4CF05EU', 'Gagnaskipan (C++)'),
 ('FORR3RR05DU', 'Reiknirit'),
 ('FORR2GL05DU', 'Leikjaforritun I'),
-('FORR3FL05EU', ''),
-('FORR3JS05DU', ''),
-('FORR3FV05EU', ''),
-('VEFÞ2VÞ05DU', ''), #Karl
-('VEFÞ3VL05EU', ''), #Karl
-('ROBO2RG05AU', ''),
-('ROBO3RF05BU', ''),
-('VEFÞ2VF05CU', ''),
-('GAGN2HS05BU', ''), #Siggi, Abdel
-('KEST2LG05DU', ''),
-('GAGN3GS05DU', ''), #Siggi, Abdel
-('KEST3LN05EU', ''), #Abdel
-('KEST3LS05FU', ''), #Abdel
-('KEST2WN05EU', ''),
-('KEST3WS05FU', ''),
-('KEST3CS05FU', ''),
-('KEST3CN05GU', ''),
-('FORR3NÞ05DU', ''),
-('FORR3CG05DU', '');
+('FORR3FL05EU', 'Leikjaforritun II'),
+('FORR3JS05DU', 'JavaScript'),
+('FORR3FV05EU', 'Viðmótsforritun'),
+('VEFÞ2VÞ05DU', 'Vefforritun II'),
+('VEFÞ3VL05EU', 'Vefforritun III'),
+('ROBO2RG05AU', 'Vélmenni I'), #Eiríkur
+('ROBO3RF05BU', 'Vélmenni II'), #Eiríkur
+('VEFÞ2VF05CU', 'Vefforritun I'),
+('GAGN2HS05BU', 'Gagnasafnsfræði - Hönnun og smíði'), #Siggi, Abdel
+('KEST2LG05DU', 'Linux - Kerfisstjórnun'), #Þórarinn
+('GAGN3GS05DU', 'Gagnasafnsfræði - Gagnasöfn og gagnavinnsla'), #Siggi
+('KEST3LN05EU', 'Linux - netstjórnun'), #Abdel, Þórarinn
+('KEST3LS05FU', 'Linux - skriftur'), #Abdel
+('KEST2WN05EU', 'Windows Server - netstjórnun og skriftur I'),
+('KEST3WS05FU', 'Windows Server - netstjórnun og skriftur II'),
+('KEST3CS05FU', 'CCNA - scaling networks'),
+('KEST3CN05GU', 'CCNA - connection networks'),
+('FORR3NÞ05DU', 'Netforritun og þráðavinnsla'),
+('FORR3CG05DU', 'Hreyfing, kraftar og orka');
