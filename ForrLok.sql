@@ -43,14 +43,14 @@ values
 ('KEST3CR05EU', 'CCNA - Routing and Switching',  'H304'), #Geir
 ('KEST2UN05CU', 'Tölvutækni - undirstöðuatriði netkerfa', 'H304'), #Abdel
 ('KEST2WG05DU', 'Windows Server - kerfisstjórnun', 'H304'), #Abdel
-('GAGN2VG05CU', 'Venslaðir gagnagrunnar', 'H209'), #Siggi, Abdel?
+('GAGN2VG05CU', 'Venslaðir gagnagrunnar', 'H209'), #Siggi, Abdel
 ('FORR1FG05AU', 'Forritun I'),
 ('FORK2FE02AU', 'Forritunarkeppni I'),
 ('FORK2FT02BU', 'Forritunarkeppni II'),
 ('FORK2FÞ02CU', 'Forritunarkeppni III'),
 ('FORR2FA05BU', 'Forritun II'),
-('VEFÞ1VG05AU', 'Vefhönnun I'),
-('VEFÞ2VH05BU', 'Vefhönnun II'),
+('VEFÞ1VG05AU', 'Vefhönnun I'), #Karl
+('VEFÞ2VH05BU', 'Vefhönnun II'), #Karl
 ('FORR2HF05CU', 'Hlutbundin forritun'),
 ('GAGN1NG05AU', 'Notkun gagnasafna'), 
 ('KEST1TR05AU', 'Tölvutækni - talnakerfi og rökrásir'),
@@ -61,16 +61,16 @@ values
 ('FORR3FL05EU', ''),
 ('FORR3JS05DU', ''),
 ('FORR3FV05EU', ''),
-('VEFÞ2VÞ05DU', ''),
-('VEFÞ3VL05EU', ''),
+('VEFÞ2VÞ05DU', ''), #Karl
+('VEFÞ3VL05EU', ''), #Karl
 ('ROBO2RG05AU', ''),
 ('ROBO3RF05BU', ''),
 ('VEFÞ2VF05CU', ''),
-('GAGN2HS05BU', ''), #Siggi, Abdel?
+('GAGN2HS05BU', ''), #Siggi, Abdel
 ('KEST2LG05DU', ''),
-('GAGN3GS05DU', ''), #Siggi
-('KEST3LN05EU', ''),
-('KEST3LS05FU', ''),
+('GAGN3GS05DU', ''), #Siggi, Abdel
+('KEST3LN05EU', ''), #Abdel
+('KEST3LS05FU', ''), #Abdel
 ('KEST2WN05EU', ''),
 ('KEST3WS05FU', ''),
 ('KEST3CS05FU', ''),
