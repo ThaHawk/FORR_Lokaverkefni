@@ -11,4 +11,8 @@
   <dd>
     Andrea setti inn values í gagnagrunninn<br>
   </dd>
+  <dt>-02/04-</dt>
+  <dd>
+    Kláraði gagnagrunn og byrjaði á sql skipunum sem hjálpa forriti
+  </dd>
 </dl>
